@@ -3,7 +3,7 @@
 \begin{document}
 \begin{markdown}
 
-# Team 1
+# Team 123
 
 *Authors: Mikołaj Pacek, Mateusz Kierznowski, Piotr Nawrot, Robert Krawczyk*
 
